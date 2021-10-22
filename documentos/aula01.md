@@ -8,7 +8,7 @@
 
 ## Instalação da Disciplina
 ### Materiais
-- [Plano de Ensino](Plano_Ensino_POO_Remoto_2021.pdf)
+- [Plano de Ensino](plano_ensino_remoto_empreendedorismo_2021_1_assinado.pdf)
 - [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulapoo/blob/3a731910eb8819c400b0e96c213063f1fe79e94f/documentos/Planejamento%20do%20Semestre_Remoto_2021_POO.pdf)
 
 
