@@ -14,7 +14,7 @@
 - [Slides aula 01] 
 
 ### Videos
-[![Aulas no Youtube]
+[Aulas no Youtube]
 
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
