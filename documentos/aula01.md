@@ -3,7 +3,7 @@
 
 > Aula 26/10/2021
 > 
->  * Apresentação da Disciplina e Principais Conceitos 
+>  * Apresentação da Disciplina e Principais Conceitos sobre empreendedorismo e habilidades a serem desenvolvidas
 
 ## Atividades da aula - Plano de ensino, principais conceitos, vídeo características empreendedor
 
