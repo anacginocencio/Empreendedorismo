@@ -19,7 +19,7 @@
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
 
-🥈: ![material complementar aula02 https://github.com/anacginocencio/Empreendedorismo/blob/2943a2ce4cbdd563cacc626a88e1a8f33188ffb2/documentos/Captura%20de%20Tela%202021-10-22%20a%CC%80s%2011.45.51.png)](https://www.youtube.com/watch?v=6lVTAyG6jq8)
+🥈: ![material complementar aula02] (https://github.com/anacginocencio/Empreendedorismo/blob/2943a2ce4cbdd563cacc626a88e1a8f33188ffb2/documentos/Captura%20de%20Tela%202021-10-22%20a%CC%80s%2011.45.51.png)(https://www.youtube.com/watch?v=6lVTAyG6jq8)
 
 
 ### Desenvolvimento aula 01: 
