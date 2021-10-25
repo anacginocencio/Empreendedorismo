@@ -11,7 +11,7 @@
 
 ### Materiais
 - [Plano de Ensino](plano_ensino_remoto_empreendedorismo_2021_1_assinado.pdf)
-- [Slides aula 01] 
+- [Slides aula 01](documentos/Aula_1_o_que_e_empreendedorismo.pdf)
 
 ### Videos
 🥇 [Aulas no Youtube]
