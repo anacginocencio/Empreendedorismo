@@ -10,7 +10,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 02](documentos/Aula_2_empreender_como_opcao_de_carreira.pdf)
+- [Slides aula 02](Aula_2_empreender_como_opcao_de_carreira.pdf)
 
 ### Videos
 🥇 [Aulas no Youtube]
