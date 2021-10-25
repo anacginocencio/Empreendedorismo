@@ -19,7 +19,7 @@
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
 
-🥇:[![material complementar aula02](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
+🥇:[![material complementar aula02](documentos/Captura de Tela 2021-10-22 às 11.45.51.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
 
 
 
