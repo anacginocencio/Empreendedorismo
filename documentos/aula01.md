@@ -1,8 +1,9 @@
 # Aula 01 - Empreendedorismo
+## Tema aula - O que é empreendedorismo
 
-> Aula 19/10/2021
+> Aula 26/10/2021
 > 
->  * Apresentação da Disciplina *
+>  * Apresentação da Disciplina  e Principais Conceitos *
 
 ## Atividades da aula - Plano de ensino, planejamento, vídeo
 
