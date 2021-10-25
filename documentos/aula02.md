@@ -25,6 +25,4 @@
 - Cigarro: fumar, cigarro, hálito, prazer, nicotina, maço, tragada, sabor, acender.
 - Pasta de dente: dentes, hálito, pasta, refrescante, cáries, sabor, flúor, escova.
 - Sabonete: banho, suave, higiene, sabonete, beleza, espuma, perfume, limpeza, corpo.
-
-- [ ]  Principais características de um empreendedor
-- [ ]  Jogos para auxiliar no desenvolvimento de habilidades empreendedoras: https://www.sebrae.com.br/sites/PortalSebrae/artigos/jogos-online-capacitam-empreendedores-e-estudantes-de-forma-ludica,925a6eaecc801710VgnVCM1000004c00210aRCRD
+- [ ]  Proponha um negócio que reflita sua motivação para empreender. 
