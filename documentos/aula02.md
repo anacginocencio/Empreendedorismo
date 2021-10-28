@@ -16,6 +16,9 @@
 [![Aula - O que é empreendedorismo PARTE I](capa_aula3.png)](https://www.youtube.com/watch?v=Gva0Luemg0I)
 [![Aula - O que é empreendedorismo PARTE II](capa_aula4.png)](https://www.youtube.com/watch?v=BNWBeOfb0mU)
 
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
+
+- [Atividade](https://forms.gle/eHx6ScGicwNzZ2ZHA)
 
 ### Desenvolvimento aula 02: 
 
