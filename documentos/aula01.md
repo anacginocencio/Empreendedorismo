@@ -14,7 +14,7 @@
 - [Slides aula 01](Aula_1_o_que_e_empreendedorismo.pdf)
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-[![Aula - O que é empreendedorismo PARTE I](video_capa_1.png)](https://youtu.be/_rxDkEMvvSs)
+[![Aula - O que é empreendedorismo PARTE I](capa_aula1.png)](https://youtu.be/_rxDkEMvvSs)
 
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
