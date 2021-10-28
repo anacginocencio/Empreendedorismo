@@ -13,7 +13,7 @@
 - [Slides aula 02](Aula_2_empreender_como_opcao_de_carreira.pdf)
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-[![Aula - O que é empreendedorismo PARTE I](capa_aula3.png)](https://www.youtube.com/watch?v=_rxDkEMvvSs)
+[![Aula - O que é empreendedorismo PARTE I](capa_aula3.png)](https://www.youtube.com/watch?v=Gva0Luemg0I)
 [![Aula - O que é empreendedorismo PARTE II](capa_aula4.png)](https://www.youtube.com/watch?v=EhjSYRNlUrU)
 
 
