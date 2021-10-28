@@ -19,11 +19,11 @@
 
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
-
 [![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
 
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
 
-
+- [Atividade](https://forms.gle/eHx6ScGicwNzZ2ZHA)
 
 ### Desenvolvimento aula 01: 
 
