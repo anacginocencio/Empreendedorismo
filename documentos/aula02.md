@@ -14,7 +14,7 @@
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
 [![Aula - O que é empreendedorismo PARTE I](capa_aula3.png)](https://www.youtube.com/watch?v=Gva0Luemg0I)
-[![Aula - O que é empreendedorismo PARTE II](capa_aula4.png)](https://www.youtube.com/watch?v=EhjSYRNlUrU)
+[![Aula - O que é empreendedorismo PARTE II](capa_aula4.png)](https://www.youtube.com/watch?v=BNWBeOfb0mU)
 
 
 ### Desenvolvimento aula 02: 
