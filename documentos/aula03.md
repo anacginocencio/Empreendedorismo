@@ -3,18 +3,18 @@
 
 > Aula 09/11/2021
 > 
-> * Compreender os conceitos acerca do desenvolvimento de um negócio próprio, etapas principais, criar com limites
+> * Compreender os conceitos sobre inovação e diferenças em uma empresa de tecnologia
 
-## Atividades da aula - Conceitos sobre oportunidades de negócio e criar com limites
+## Atividades da aula - Apresentar os conceitos sobre inovação e a necessidade de introduzir inovação em produtos de tecnologia
 
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 02](Aula_2_empreender_como_opcao_de_carreira.pdf)
+- [Slides aula 03](Aula_3_oportunidades de negócio.pdf)
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-[![Aula - O que é empreendedorismo PARTE I](capa_aula3.png)](https://www.youtube.com/watch?v=Gva0Luemg0I)
-[![Aula - O que é empreendedorismo PARTE II](capa_aula4.png)](https://www.youtube.com/watch?v=BNWBeOfb0mU)
+[![Aula - Oportunidades de Negócio PARTE I](capa_aula3.png)]()
+
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
 
