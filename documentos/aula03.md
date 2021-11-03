@@ -10,7 +10,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 03](Aula_3_oportunidades_de_negócio_parte1.pdf)
+- [Slides aula 03](Aula_3_oportunidades_de_negocio_parte1.pdf)
 
 ### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
 [![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)]()
