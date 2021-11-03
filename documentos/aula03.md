@@ -3,7 +3,7 @@
 
 > Aula 09/11/2021
 > 
-> * Compreender os conceitos sobre inovação e diferenças em uma empresa de tecnologia
+> * Compreender os conceitos sobre inovação e como se estruturam empresas de tecnologia
 
 ## Atividades da aula - Apresentar os conceitos sobre inovação e a necessidade de introduzir inovação em produtos de tecnologia
 
