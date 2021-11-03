@@ -1,5 +1,5 @@
 ### Aulas
-- ##[Roteiro Aula00 - 19/10/2022 - Dia C da ciência]
+- ### [Roteiro Aula00 - 19/10/2022 - Dia C da ciência]
 - [Roteiro Aula01 - 26/10/2021](aula01.md)
 - [Roteiro Aula02 - 26/10/2021](aula02.md)
 - [02/11/2021 - FERIADO FINADOS]
@@ -19,7 +19,7 @@
 - [Roteiro Aula16 - 07/12/2021]
 - [Roteiro Aula17 - 14/12/2021]
 - [Roteiro Aula18 - 14/12/2021]
-- ## [RECESSO ACADÊMICO - 21/12/2021 a 11/01/2022]
+- ### [RECESSO ACADÊMICO - 21/12/2021 a 11/01/2022]
 - [Roteiro Aula19 - 18/01/2022]
 - [Roteiro Aula20 - 18/01/2022]
 - [Roteiro Aula21 - 25/01/2022]
