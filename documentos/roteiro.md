@@ -4,7 +4,7 @@
 - [Roteiro Aula02 - 26/10/2021](aula02.md)
 - #### [02/11/2021 - FERIADO FINADOS]
 - [Roteiro Aula03 - 09/11/2021](aula03.md)
-- [Roteiro Aula04 - 09/11/2021]
+- [Roteiro Aula04 - 09/11/2021](aula04.md)
 - [Roteiro Aula05 - 16/11/2021]
 - [Roteiro Aula06 - 16/11/2021]
 - [Roteiro Aula07 - 23/11/2021]
