@@ -10,24 +10,20 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 03](Aula_3_oportunidades de negócio.pdf)
+- [Slides aula 03](Aula_3_oportunidades_de_negócio_parte1.pdf)
 
-### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-[![Aula - Oportunidades de Negócio PARTE I](capa_aula3.png)]()
+### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
+[![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)]()
 
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/11/2021
 
-- [Atividade](https://forms.gle/eHx6ScGicwNzZ2ZHA)
+- [Atividade]()
 
-### Desenvolvimento aula 02: 
+### Desenvolvimento aula 03: 
 
-- [ ]  Perfil do empreendedor
-- [ ]  Razões para empreender (Sobrevivência, Paixão, Investimento, Lutar por uma causa)
-- [ ]  Definição grupos de empreendedores (mínimo 2 e máximo 2)
-- [ ]  Criando com limites (Criar um programa de rádio para anunciar propaganda de 1 produto, a escolha da dupla (cigarro, sabonete, pasta de dente). Porém, ao criar essa propagandas, é proibido ouso das seguintes palavras:
-- Cigarro: fumar, cigarro, hálito, prazer, nicotina, maço, tragada, sabor, acender.
-- Pasta de dente: dentes, hálito, pasta, refrescante, cáries, sabor, flúor, escova.
-- Sabonete: banho, suave, higiene, sabonete, beleza, espuma, perfume, limpeza, corpo.
+- [ ]  O que é inovação 
+- [ ]  Impacto da inovação tecnológica
+- [ ]  Regra da volta à estaca-zero
+- [ ]  Diferenças entre uma lanchonete e uma empresa de tecnologia
 - [ ]  Proponha um negócio que reflita sua motivação para empreender. 
-
