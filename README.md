@@ -7,7 +7,6 @@
 - [Link WhatsApp Disciplina:] https://chat.whatsapp.com/KcJs1cQ8KTnKRuKtjSNsGT
 - [Plano de Ensino e Cronograma](https://github.com/anacginocencio/Empreendedorismo/blob/4f85a49ebccb6b245abbf7bd21a041578535690e/documentos/plano_ensino_remoto_empreendedorismo_2021_1_assinado.pdf
 - [Roteiro de aulas](documentos/roteiro.md)
-- ##  INFORMAÇÕES AVALIAÇÕES
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
