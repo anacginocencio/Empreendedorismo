@@ -13,7 +13,7 @@
 - [Slides aula 03](Aula_3_oportunidades_de_negocio_parte1.pdf)
 
 ### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
-[![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)]()
+[![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)](https://www.youtube.com/watch?v=cZax4ZMC6nU)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/11/2021
