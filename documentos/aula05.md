@@ -20,7 +20,7 @@
 
 [![Aula - IDEO CART PROJETC](video_ideo.png)](https://www.youtube.com/watch?v=Q5MDq4zidB8)
 
-[![Aula - SIMON](video_simon.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
+[![Aula - SIMON](video_simon2.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
