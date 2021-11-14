@@ -13,10 +13,13 @@
 - [Slides aula 05](Aula_5_design_thinking_Parte1.pdf)
 
 ### Vídeo aula empreendedorismo -  Design Thinking - Parte I
+
 [![Aula - Design Thinking Parte I](capa_aula5.png)]()
 
 ### Materiais -  Design Thinking - Parte I
+
 [![Aula - IDEO CART PROJETC](video_ideo.png)](https://www.youtube.com/watch?v=Q5MDq4zidB8)
+
 [![Aula - SIMON](video_simon.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
 
 
