@@ -15,7 +15,7 @@
 
 ### Vídeo aula empreendedorismo -  Design Thinking - Parte II
 
-[![Aula - Design Thinking Parte II](capa_aula6.png)]()
+[![Aula - Design Thinking Parte II](capa_aula6.png)](https://www.youtube.com/watch?v=kpPQDioXlrs)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
