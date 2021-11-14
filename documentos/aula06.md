@@ -14,13 +14,7 @@
 
 ### Vídeo aula empreendedorismo -  Design Thinking - Parte I
 
-[![Aula - Design Thinking Parte I](capa_aula6.png)]()
-
-### Materiais -  Design Thinking - Parte I
-
-[![Aula - IDEO CART PROJETC](video_ideo.png)](https://www.youtube.com/watch?v=Q5MDq4zidB8)
-
-[![Aula - SIMON](video_simon2.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
+[![Aula - Design Thinking Parte II](capa_aula6.png)]()
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
@@ -29,6 +23,7 @@
 
 ### Desenvolvimento aula 04: 
 
-- [ ]  Principais Conceitos Design Thinking
-- [ ]  Vídeo carrinho de compras IDEO - Melhor explicação do processo criativo que tem-se com o Design Thinking
-- [ ]  Vídeo Círculo Dourado de Simon para explicação sobre a importância da forma de se apresentar um produto e conseguir sucesso
+- [ ]  Design Thinking como um processo de imersão, ideação, prototipação e desenvolvimento. 
+- [ ]  Exemplo mesa empresa e pizza em família. Brainstorming e suas regras. 
+- [ ]  Design Thinking no mundo real (problema desnutrição e empresa). 
+- [ ]  Ferramentas o círculo dourado de Simon e mapa de empatia para desenvolvimento do negócio, próximas atividades
