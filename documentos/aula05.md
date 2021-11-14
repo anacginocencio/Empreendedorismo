@@ -14,7 +14,7 @@
 
 ### Vídeo aula empreendedorismo -  Design Thinking - Parte I
 
-[![Aula - Design Thinking Parte I](capa_aula5.png)]()
+[![Aula - Design Thinking Parte I](capa_aula5.png)](https://youtu.be/xWIMc1zhkdU)
 
 ### Materiais -  Design Thinking - Parte I
 
