@@ -28,4 +28,4 @@
 
 - [ ]  Principais Conceitos Design Thinking
 - [ ]  Vídeo carrinho de compras IDEO - Melhor explicação do processo criativo que tem-se com o Design Thinking
-- [ ]  Vídeo Círculo Dourado de Simon para explicação sobre a importância da forma de se apresentar um produto
+- [ ]  Vídeo Círculo Dourado de Simon para explicação sobre a importância da forma de se apresentar um produto e conseguir sucesso
