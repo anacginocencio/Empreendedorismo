@@ -10,7 +10,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Slides aula 04](Aula_5_design_thinking_Parte1.pdf)
+- [Slides aula 05](Aula_5_design_thinking_Parte1.pdf)
 
 ### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
 [![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)]()
