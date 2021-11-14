@@ -13,7 +13,7 @@
 - [Slides aula 05](Aula_5_design_thinking_Parte1.pdf)
 
 ### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
-[![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)]()
+[![Aula - Design Thinking Parte I](capa_aula5.png)]()
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/11/2021
