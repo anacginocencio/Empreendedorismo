@@ -13,7 +13,7 @@
 
 - [Slides aula 06](Aula_6_design_thinking_Parte2.pdf)
 
-### Vídeo aula empreendedorismo -  Design Thinking - Parte I
+### Vídeo aula empreendedorismo -  Design Thinking - Parte II
 
 [![Aula - Design Thinking Parte II](capa_aula6.png)]()
 
