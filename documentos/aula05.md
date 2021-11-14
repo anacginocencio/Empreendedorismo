@@ -12,17 +12,20 @@
 ### Materiais
 - [Slides aula 05](Aula_5_design_thinking_Parte1.pdf)
 
-### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
+### Vídeo aula empreendedorismo -  Design Thinking - Parte I
 [![Aula - Design Thinking Parte I](capa_aula5.png)]()
 
+### Materiais -  Design Thinking - Parte I
+[![Aula - IDEO CART PROJETC](video_ideo.png)](https://www.youtube.com/watch?v=Q5MDq4zidB8)
+[![Aula - SIMON](video_simon.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 15/11/2021
 
-- [Atividade](https://forms.gle/juJhm6dCNnAzb2538)
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
+
+- [Atividade](https://forms.gle/iErxz3NxtHjNACr86)
 
 ### Desenvolvimento aula 04: 
 
-- [ ]  O empreendedor deve saber o que quer
-- [ ]  Como procurar uma oportunidade de negócio
-- [ ]  Atividade para apresentação em aula: Faça uma pesquisa sobre prêmios de incentivo à inovação. Sugestão: faça uma busca na Internet com os termos “prêmio de inovação”. Não deixe de consultar os critérios de julgamento do Prêmio Finep de Inovação.
-
+- [ ]  Principais Conceitos Design Thinking
+- [ ]  Vídeo carrinho de compras IDEO - Melhor explicação do processo criativo que tem-se com o Design Thinking
+- [ ]  Vídeo Círculo Dourado de Simon para explicação sobre a importância da forma de se apresentar um produto
