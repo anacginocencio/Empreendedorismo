@@ -10,6 +10,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
+
 - [Slides aula 06](Aula_6_design_thinking_Parte2.pdf)
 
 ### Vídeo aula empreendedorismo -  Design Thinking - Parte I
