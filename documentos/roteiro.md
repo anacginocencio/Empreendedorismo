@@ -9,8 +9,8 @@
 - [Roteiro Aula06 - 16/11/2021](aula06.md)
 - [Roteiro Aula07 - 23/11/2021]
 - [Roteiro Aula08 - 23/11/2021]
-- #### [Roteiro Aula09 - 24/11/2021 - AULA ASSÍNCRONA PARA DISCUSSÃO TRABALHOS - HORÁRIO 7h às 11h - Conforme agendamento]
-- #### [Roteiro Aula10 - 24/11/2021 - AULA ASSÍNCRONA PARA DISCUSSÃO TRABALHOS - HORÁRIO 7h às 11h - Conforme agendamento]
+- #### [Roteiro Aula09 - 24/11/2021 - Aula assíncrona para discussão de trabalhos - HORÁRIO 7h às 11h - Conforme agendamento]
+- #### [Roteiro Aula10 - 24/11/2021 - Aula assíncrona para discussão de trabalhos - HORÁRIO 7h às 11h - Conforme agendamento]
 - [Roteiro Aula11 - 30/11/2021]
 - [Roteiro Aula12 - 30/11/2021]
 - [Roteiro Aula13 - 01/12/2021]
