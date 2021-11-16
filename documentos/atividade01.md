@@ -14,7 +14,7 @@
 ## ATIVIDADE ORGANIZAÇÃO NEGÓCIOS GRUPOS 
 
 - [Atividade 1](https://forms.gle/gwdFP2AMyUTYsCNF8)
-- 
+
 ## ATIVIDADE MAPA DE EMPATIA 
 
 - [Atividade 2](https://forms.gle/mB6eGGRL1rCjE4V78)
