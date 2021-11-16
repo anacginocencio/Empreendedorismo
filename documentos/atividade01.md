@@ -8,4 +8,9 @@
 - [GRUPO 07 - Paulo Sérgio e Lígia e Victor de Lucca]
 - [GRUPO 08 - Matheus e Xavier e Ives]
 - [GRUPO 09 - Gianluca e Yago]
-## Atividades01 
+
+
+## ATIVIDADE ORGANIZAÇÃO NEGÓCIOS GRUPOS (PRAZO FINAL - 22/11/2021)
+
+- [Atividade 1](https://forms.gle/gwdFP2AMyUTYsCNF8)
+- 
