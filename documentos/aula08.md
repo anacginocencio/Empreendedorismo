@@ -17,6 +17,10 @@
 
 [![Aula - Modelo Canvas Parte I](capa_aula8.png)]()
 
+### Vídeo planejamento carreira -  Modelo Canvas 
+
+[![Aula - Modelo Canvas Parte I](capa_aula8.png)]()
+
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
 
