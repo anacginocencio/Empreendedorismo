@@ -13,12 +13,12 @@
 
 - [Slides aula 07](Aula_7_canvas_parte1.pdf)
 
-### Vídeo aula empreendedorismo -  Design Thinking - Parte II
+### Vídeo aula empreendedorismo -  Modelo Canvas - Parte I
 
 [![Aula - Modelo Canvas Parte I](capa_aula7.png)]()
 
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
 
 - [Atividade]()
 
