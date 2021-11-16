@@ -15,11 +15,11 @@
 
 ### Vídeo aula empreendedorismo -  Modelo Canvas - Parte II
 
-[![Aula - Modelo Canvas Parte I](capa_aula8.png)]()
+[![Aula - Modelo Canvas Parte II](capa_aula8.png)]()
 
 ### Vídeo planejamento carreira -  Modelo Canvas 
 
-[![Aula - Modelo Canvas Parte I](capa_aula8.png)]()
+[![Planejamento da carreira](capa_planejamento.png)](https://www.youtube.com/watch?v=bdhEmdgZqV4)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
