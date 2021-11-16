@@ -17,6 +17,9 @@
 
 [![Aula - Modelo Canvas Parte I](capa_aula7.png)](https://www.youtube.com/watch?v=ySMPJJd7YJo)
 
+### Vídeo animação Modelo Canvas
+
+[![Vídeo animação Canvas](animacao_canvas.png)](https://www.youtube.com/watch?v=tYbvFYQGm-0)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
 
