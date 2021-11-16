@@ -22,7 +22,7 @@
 
 - [Atividade](https://forms.gle/iErxz3NxtHjNACr86)
 
-### Desenvolvimento aula 04: 
+### Desenvolvimento aula 06: 
 
 - [ ]  Design Thinking como um processo de imersão, ideação, prototipação e desenvolvimento. 
 - [ ]  Exemplo mesa empresa e pizza em família. Brainstorming e suas regras. 
