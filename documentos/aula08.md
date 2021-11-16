@@ -15,7 +15,7 @@
 
 ### Vídeo aula empreendedorismo -  Modelo Canvas - Parte II
 
-[![Aula - Modelo Canvas Parte II](capa_aula8.png)]()
+[![Aula - Modelo Canvas Parte II](capa_aula8.png)](https://www.youtube.com/watch?v=SxdSEZrk38Q)
 
 ### Vídeo planejamento carreira -  Modelo Canvas 
 
