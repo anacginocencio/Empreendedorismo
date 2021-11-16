@@ -14,6 +14,10 @@
 
 - [Atividade 01](documentos/atividade01.md)
 
+## ATIVIDADE PLANEJAMENTO CARREIRA COM MODELO CANVAS (PRAZO FINAL - 30/11/2021)
+
+- [Atividade 02](documentos/atividade02.md)
+
 
 ###  ATIVIDADES AVALIATIVAS N1
 
