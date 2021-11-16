@@ -15,7 +15,7 @@
 
 ### Vídeo aula empreendedorismo -  Modelo Canvas - Parte I
 
-[![Aula - Modelo Canvas Parte I](capa_aula7.png)]()
+[![Aula - Modelo Canvas Parte I](capa_aula7.png)](https://www.youtube.com/watch?v=ySMPJJd7YJo)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
