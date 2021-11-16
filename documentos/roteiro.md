@@ -7,8 +7,8 @@
 - [Roteiro Aula04 - 09/11/2021](aula04.md)
 - [Roteiro Aula05 - 16/11/2021](aula05.md)
 - [Roteiro Aula06 - 16/11/2021](aula06.md)
-- [Roteiro Aula07 - 23/11/2021]
-- [Roteiro Aula08 - 23/11/2021]
+- [Roteiro Aula07 - 23/11/2021](aula07.md)
+- [Roteiro Aula08 - 23/11/2021](aula08.md)
 - [Roteiro Aula09 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula09.md)
 - [Roteiro Aula10 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula10.md)
 - [Roteiro Aula11 - 30/11/2021]
