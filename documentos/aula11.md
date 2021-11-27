@@ -11,7 +11,7 @@
 
 ### Materiais
 
-- [Slides aula 11](Aula_11_pitch.pdf)
+- [Slides aula 11](aula_11_pitch.pdf)
 
 ### Vídeo aula empreendedorismo -  Pitch
 
