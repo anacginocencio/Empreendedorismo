@@ -19,7 +19,7 @@
 
 ### Vídeo exemplo Pitch
 
-[![Exemplo Pitch](capa_exemplo_pitch.png)]()
+[![Exemplo Pitch](capa_exemplo_pitch.png)](https://www.youtube.com/watch?v=cM2BTr5-w-I)
 
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 07/12/2021
