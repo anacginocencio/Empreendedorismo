@@ -15,7 +15,7 @@
 
 ### Vídeo aula empreendedorismo -  Pitch
 
-[![Aula - Pitch](capa_aula11.png)]()
+[![Aula - Pitch](capa_aula11.png)](https://youtu.be/CpUFjraA3BQ)
 
 ### Vídeo exemplo Pitch
 
@@ -30,4 +30,4 @@
 
 - [ ] O que é Pitch?
 - [ ] Como elaborar?
-- [ ] Alguns exemplos
+- [ ] Alguns exemplos - Pitch elevador SEBRAE MINAS
