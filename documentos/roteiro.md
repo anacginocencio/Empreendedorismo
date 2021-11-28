@@ -13,8 +13,8 @@
 - [Roteiro Aula10 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula10.md)
 - [Roteiro Aula11 - 30/11/2021](aula11.md)
 - [Roteiro Aula12 - 30/11/2021](aula12.md)
-- [Roteiro Aula13 - 01/12/2021 - ASSÍNCRONA - AGENDAMENTO]
-- [Roteiro Aula14 - 01/12/2021 - ASSÍNCRONA - AGENDAMENTO]
+- [Roteiro Aula13 - 01/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula13.md)
+- [Roteiro Aula14 - 01/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula14.md)
 - [Roteiro Aula15 - 07/12/2021]
 - [Roteiro Aula16 - 07/12/2021]
 - [Roteiro Aula17 - 14/12/2021]
