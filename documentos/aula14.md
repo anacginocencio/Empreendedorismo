@@ -1,6 +1,6 @@
 # Aula 14 - Empreendedorismo - Assíncrona
 ## Tema aula - Discussão dos trabalhos a serem desenvolvidos
-> Aula 01/12/2021 - 7h às 11h 
+> Aula 02/12/2021 - 14h às 18h 
 > 
 > * Os grupos devem realizar o agendamento pelo e-mail: anainocencio@ufj.edu.br
 > 
