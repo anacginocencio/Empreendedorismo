@@ -6,7 +6,7 @@
 - [Link aula:]  https://meet.google.com/upm-qcox-tur
 - [Link WhatsApp Disciplina:] https://chat.whatsapp.com/KcJs1cQ8KTnKRuKtjSNsGT
 - [Plano de Ensino e Cronograma](plano_ensino_remoto_empreendedorismo_2021_1_assinado.pdf)
-- [Roteiro de aulas](documentos/roteiro.md)
+- [Roteiro de aulas e materiais](documentos/roteiro.md)
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
