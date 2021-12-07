@@ -14,9 +14,9 @@
 
 - [07/12/2021 - APRESENTAÇÃO PITCH]
 - [07/12/2021 - ENTREGA CANVAS](https://forms.gle/61tE53fvVkgPW9QaA)
-- [INSTRUÇÕES PITCH](aula11.md)
-- [INSTRUÇÕES MODELO CANVAS - PARTE 1](aula07.md)
-- [INSTRUÇÕES MODELO CANVAS - PARTE 2](aula08.md)
+- [INSTRUÇÕES PITCH](documentos/aula11.md)
+- [INSTRUÇÕES MODELO CANVAS - PARTE 1](documentos/aula07.md)
+- [INSTRUÇÕES MODELO CANVAS - PARTE 2](documentos/aula08.md)
 
 ##  ATIVIDADES AVALIATIVAS N2
 
