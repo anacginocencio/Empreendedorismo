@@ -26,6 +26,8 @@
 - [GRUPO 07 - Paulo Sérgio e Lígia e Victor de Lucca - CONECTAR EQUIPES COM IDEIAS EMPREENDEDORAS]
 - [GRUPO 08 - Matheus e Xavier e Ives - CONECTAR VAREGISTAS AOS CONSUMIDORES]
 
+## Video aula empreendedorismo -  Apresentação Pitch
+[![Aula - Apresentação Pitch](capa_aula15.png)](https://youtu.be/1cZb7lDIt9U)
 
 ### Desenvolvimento aula 15: 
 
