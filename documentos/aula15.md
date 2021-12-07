@@ -27,6 +27,6 @@
 - [GRUPO 08 - Matheus e Xavier e Ives - CONECTAR VAREGISTAS AOS CONSUMIDORES]
 
 
-### Desenvolvimento aula 14: 
+### Desenvolvimento aula 15: 
 
 - [ ]  Nesta aula tivemos a 8 apresentações de pitch como um dos processos avaliativos que compõem a N1 da disciplina de empreendedorismo 
