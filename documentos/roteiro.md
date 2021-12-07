@@ -15,8 +15,8 @@
 - [Roteiro Aula12 - 30/11/2021](aula12.md)
 - [Roteiro Aula13 - 03/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula13.md)
 - [Roteiro Aula14 - 03/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula14.md)
-- [Roteiro Aula15 - 07/12/2021]
-- [Roteiro Aula16 - 07/12/2021]
+- [Roteiro Aula15 - 07/12/2021](aula15.md)
+- [Roteiro Aula16 - 07/12/2021](aula16.md)
 - [Roteiro Aula17 - 14/12/2021]
 - [Roteiro Aula18 - 14/12/2021]
 - #### [RECESSO ACADÊMICO - 21/12/2021 a 11/01/2022]
