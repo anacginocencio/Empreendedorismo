@@ -21,7 +21,7 @@
 - [Roteiro Aula18 - 14/12/2021](aula18.md)
 - #### [RECESSO ACADÊMICO - 21/12/2021 a 11/01/2022]
 - [Roteiro Aula19 - 18/01/2022](aula19.md)
-- [Roteiro Aula20 - 18/01/2022]
+- [Roteiro Aula20 - 18/01/2022](aula20.md)
 - [Roteiro Aula21 - 25/01/2022]
 - [Roteiro Aula22 - 25/01/2022]
 - [Roteiro Aula23 - 01/02/2022]
