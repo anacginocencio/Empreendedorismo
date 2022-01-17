@@ -1,6 +1,6 @@
 # Aula 17 - Empreendedorismo - Assíncrona
 ## Tema aula - Discussão N1
-> Aula 14/12/2021 - 7h30 às 11h10
+> Aula 14/12/2021 - 7h30 às 9h10
 > 
 > 
 ## Atividades da aula - Apresentação notas e discussão sobre os trabalhos
