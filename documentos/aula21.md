@@ -16,14 +16,20 @@ ser descria e a análise dos investimentos com divulgação do produto
 
 ### Vídeo aula empreendedorismo -  Problema - Solução
 
-[![Aula - Pitch](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
+[![Aula - Problema - Solução](capa_aula21_1.png)](https://youtu.be/fB7Ti9PFHnY)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 24/01/2022
+### Vídeo aula empreendedorismo -  Canais de Venda
 
-- [Atividade](https://forms.gle/JZHYSMVPBCADCHZT8)
+[![Aula - Problema - Solução](capa_aula21_2.png)](https://youtu.be/qq3vNQk7z4g)
+  
 
-### Desenvolvimento aula 19: 
+####  Atividade frequência aula ASSÍNCRONA - Prazo 01/02/2022
 
-- [ ] O que é público-alvo?
-- [ ] Como definir a segmentação de mercado?
-- [ ] Definindo personas e a jornada do cliente.
+- [Atividade](https://forms.gle/H7PJziZ33YXAxokq5)
+
+### Desenvolvimento aula 21: 
+
+- [ ] Como definir a proposta de valor?
+- [ ] Quem são os concorrentes e como analisar a concorrência?
+- [ ] A importância da experimentação para validar a proposta de valor.
+- [ ] Análise dos canais de aquisição e funil de vendas
