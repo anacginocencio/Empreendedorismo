@@ -23,7 +23,7 @@
 - [Roteiro Aula19 - 18/01/2022](aula19.md)
 - [Roteiro Aula20 - 18/01/2022](aula20.md)
 - [Roteiro Aula21 - 25/01/2022 - ASSÍNCRONA](aula21.md)
-- [Roteiro Aula22 - 25/01/2022]
+- [Roteiro Aula22 - 25/01/2022 - ASSÍNCRONA](aula22.md)
 - [Roteiro Aula23 - 01/02/2022]
 - [Roteiro Aula24 - 01/02/2022]
 - [Roteiro Aula25 - 08/02/2022]
