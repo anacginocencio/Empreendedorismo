@@ -12,9 +12,9 @@
 
 - [Slides aula 19](aula_19_pnbox_cliente_mercado.pdf)
 
-### Vídeo aula empreendedorismo -  Pitch
+### Vídeo aula empreendedorismo -  Cliente - Mercado
 
-[![Aula - Pitch](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
+[![Aula - Cliente-Mercado](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
 
 ####  Atividade frequência para quem não participou da aula síncrona - Prazo 24/01/2022
 
