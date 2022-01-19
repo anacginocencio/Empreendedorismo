@@ -6,8 +6,7 @@
 ## Atividades da aula - Conceitos relacionados a proposta de valor, análise da concorrência e quadro de experimentação. Canais de aquisição e funil de vendas
 
 
-## Instalação da Disciplina - Nesta aula serão trabalhados os conceitos necessários para o entendimento de como uma proposta de valor deve 
-ser descria e a análise dos investimentos com divulgação do produto
+## Instalação da Disciplina - Nesta aula serão trabalhados os conceitos necessários para o entendimento de como uma proposta de valor deve ser descrita e a análise dos investimentos com divulgação do produto
 
 ### Materiais
 
