@@ -15,7 +15,7 @@
 
 [![Aula - TEORICA FINANCAS](capa_aula23.png)](https://youtu.be/f1RRfJceR4o)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 24/01/2022
+####  Atividade frequência para quem não participou da aula síncrona - Prazo 08/02/2022
 
 - [Atividade](https://forms.gle/P5fsqnprkDLLBid89)
 
