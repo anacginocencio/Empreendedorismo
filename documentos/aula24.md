@@ -9,7 +9,7 @@
 
 ### Materiais
 
-- [Slides aula 23](aula_23_pnbox_financas.pdf)
+- [Slides aula 24](aula_23_pnbox_financas.pdf)
 
 ### Vídeo aula empreendedorismo -  PRÁTICA - PNBOX - FINANÇAS - PARTE 1
 
