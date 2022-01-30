@@ -10,6 +10,7 @@
 ### Materiais
 
 - [Slides aula 23](aula_23_pnbox_financas.pdf)
+- [Planilha Controle Contas a pagar](controle_contas.xlsx)
 
 ### Vídeo aula empreendedorismo -  PLANO DE NEGÓCIOS - FINANÇAS
 
