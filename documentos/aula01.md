@@ -1,8 +1,6 @@
 # Aula 01 - Empreendedorismo
 ## Tema aula - O que é empreendedorismo
 
-> Aula 26/10/2021
-> 
 >  * Apresentação da Disciplina e Principais Conceitos sobre empreendedorismo e habilidades a serem desenvolvidas
 
 ## Atividades da aula - Plano de ensino, principais conceitos, vídeo características empreendedor
@@ -21,9 +19,6 @@
 
 [![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 03/11/2021
-
-- [Atividade](https://forms.gle/eHx6ScGicwNzZ2ZHA)
 
 ### Desenvolvimento aula 01: 
 
