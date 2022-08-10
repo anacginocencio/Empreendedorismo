@@ -1,34 +1,29 @@
 ### Aulas
-- [Roteiro Aula01 - 10/08/2022](aula01.md)
-- [Roteiro Aula02 - 17/08/2022](aula02.md)
-- [Roteiro Aula03 - 24/08/2022](aula03.md)
-- [Roteiro Aula04 - 31/08/2022](aula04.md)
+- [Roteiro Aula O que é empreendedorismo - 10/08/2022](aula01.md)
+- [Roteiro Aula Empreender como opção de carreira - 10/08/2022](aula02.md)
+- [Roteiro Aula Oportunidades de Negócio - Parte 1 - 17/08/2022](aula03.md)
+- [Roteiro Aula Oportunidades de Negócio - Parte 2 - 17/08/2022](aula04.md)
+- [Roteiro Design Thinking - Parte 1 - 24/08/2022](aula05.md)
+- [Roteiro Design Thinking - Parte 2 - 24/08/2022](aula06.md)
+- [Roteiro Canvas - Parte 1 - 31/08/2022](aula07.md)
+- [Roteiro Canvas - Parte 2 - 31/08/2022](aula08.md)
 - #### [FERIADO INDEPENDÊNCIA DO BRASIL - 07/09/2022]
-- [Roteiro Aula05 - 14/09/2022](aula05.md)
-- [Roteiro Aula06 - 21/09/2022](aula06.md)
+- [Roteiro Aula - Pitch - 14/09/2022](aula11.md)
+- [Roteiro Aula - Pitch - 14/09/2022](aula11.md)
+- [Roteiro Aula - Desenvolvimento Trabalhos - 21/09/2022](aula09.md)
+- [Roteiro Aula - Desenvolvimento Trabalhos - 21/09/2022](aula09.md)
+- #### [APRESENTAÇÃO PITCH E ENTREGA CANVAS - 28/09/2022]
 - #### [NÃO HAVERÁ AULA - AVALIAÇÃO INEP - 05/10/2022]
-- [Roteiro Aula07 - 23/11/2021](aula07.md)
-- [Roteiro Aula08 - 23/11/2021](aula08.md)
-- [Roteiro Aula09 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula09.md)
-- [Roteiro Aula10 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula10.md)
-- [Roteiro Aula11 - 30/11/2021](aula11.md)
-- [Roteiro Aula12 - 30/11/2021](aula12.md)
-- [Roteiro Aula13 - 03/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula13.md)
-- [Roteiro Aula14 - 03/12/2021 - ASSÍNCRONA - AGENDAMENTO](aula14.md)
-- [Roteiro Aula15 - 07/12/2021](aula15.md)
-- [Roteiro Aula16 - 07/12/2021](aula16.md)
-- [Roteiro Aula17 - 14/12/2021](aula17.md)
-- [Roteiro Aula18 - 14/12/2021](aula18.md)
-- #### [RECESSO ACADÊMICO - 21/12/2021 a 11/01/2022]
-- [Roteiro Aula19 - 18/01/2022](aula19.md)
-- [Roteiro Aula20 - 18/01/2022](aula20.md)
-- [Roteiro Aula21 - 25/01/2022 - ASSÍNCRONA](aula21.md)
-- [Roteiro Aula22 - 25/01/2022 - ASSÍNCRONA](aula22.md)
-- [Roteiro Aula23 - 01/02/2022](aula23.md)
-- [Roteiro Aula24 - 01/02/2022](aula24.md)
-- [Roteiro Aula25 - 08/02/2022]
-- [Roteiro Aula26 - 08/02/2022]
-- [Roteiro Aula27 - 15/02/2022]
-- [Roteiro Aula28 - 15/02/2022]
-- [Roteiro Aula29 - 18/02/2022]
-- [Roteiro Aula30 - 18/02/2022]
+- #### [FERIADO NOSSA SENHORA APARECIDA - 12/10/2022]
+- #### [CONEPE - 19/10/2022](https://conepe.ufj.edu.br/)
+- #### [REPOSIÇÃO DISCUSSÃO MÉDIAS - 21/10/2022]
+- [Roteiro Aula - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula19.md)
+- [Roteiro Aula - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula20.md)
+- [Roteiro Aula - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/2022](aula21.md)
+- [Roteiro Aula - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/202](aula22.md)
+- [Roteiro Aula - Plano de Negócios  - FINANÇAS - 16/11/2022](aula23.md)
+- [Roteiro Aula - Plano de Negócios  - FINANÇAS - 16/11/2022](aula24.md)
+- [Roteiro Aula - Desenvovimento Plano - 23/11/2022]
+- [Roteiro Aula - Desenvovimento Plano - 30/11/2022]
+- #### [Roteiro Aula - Entrega Plano de Negócios - 02/12/2022]
+- #### [DISCUSSÃO MÉDIAS - 05/12/2022]
