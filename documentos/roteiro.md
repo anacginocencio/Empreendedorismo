@@ -1,10 +1,12 @@
 ### Aulas
-- [Roteiro Aula01](aula01.md)
-- [Roteiro Aula02](aula02.md)
-- [Roteiro Aula03 - 09/11/2021](aula03.md)
-- [Roteiro Aula04 - 09/11/2021](aula04.md)
-- [Roteiro Aula05 - 16/11/2021](aula05.md)
-- [Roteiro Aula06 - 16/11/2021](aula06.md)
+- [Roteiro Aula01 - 10/08/2022](aula01.md)
+- [Roteiro Aula02 - 17/08/2022](aula02.md)
+- [Roteiro Aula03 - 24/08/2022](aula03.md)
+- [Roteiro Aula04 - 31/08/2022](aula04.md)
+- #### [FERIADO INDEPENDÊNCIA DO BRASIL - 07/09/2022]
+- [Roteiro Aula05 - 14/09/2022](aula05.md)
+- [Roteiro Aula06 - 21/09/2022](aula06.md)
+- #### [NÃO HAVERÁ AULA - AVALIAÇÃO INEP - 05/10/2022]
 - [Roteiro Aula07 - 23/11/2021](aula07.md)
 - [Roteiro Aula08 - 23/11/2021](aula08.md)
 - [Roteiro Aula09 - 24/11/2021 - ASSÍNCRONA - AGENDAMENTO](aula09.md)
