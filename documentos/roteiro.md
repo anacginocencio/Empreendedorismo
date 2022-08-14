@@ -1,16 +1,14 @@
 ### Aulas
 - [Roteiro Aula O que é empreendedorismo - 10/08/2022](aula01.md)
 - [Roteiro Aula Empreender como opção de carreira - 17/08/2022](aula02.md)
-- [Roteiro Aula Oportunidades de Negócio - Parte 1 - 17/08/2022](aula03.md)
-- [Roteiro Aula Oportunidades de Negócio - Parte 2 - 17/08/2022](aula04.md)
-- [Roteiro Design Thinking - Parte 1 - 24/08/2022](aula05.md)
-- [Roteiro Design Thinking - Parte 2 - 24/08/2022](aula06.md)
-- [Roteiro Canvas - Parte 1 - 31/08/2022](aula07.md)
-- [Roteiro Canvas - Parte 2 - 31/08/2022](aula08.md)
+- [Roteiro Aula Oportunidades de Negócio - Parte 1 - 24/08/08/2022](aula03.md)
+- [Roteiro Aula Oportunidades de Negócio - Parte 2 - 24/08/2022](aula04.md)
+- [Roteiro Design Thinking - Parte 1 - 31/08/2022](aula05.md)
+- [Roteiro Design Thinking - Parte 2 - 31/08/2022](aula06.md)
 - #### [FERIADO INDEPENDÊNCIA DO BRASIL - 07/09/2022]
-- [Roteiro Aula - Pitch - 14/09/2022](aula11.md)
-- [Roteiro Aula - Pitch - 14/09/2022](aula11.md)
-- [Roteiro Aula - Desenvolvimento Trabalhos - 21/09/2022](aula09.md)
+- [Roteiro Canvas - Parte 1 - 14/09/2022](aula07.md)
+- [Roteiro Canvas - Parte 2 - 14/09/2022](aula08.md)
+- [Roteiro Aula - Pitch - 21/09/2022](aula11.md)
 - [Roteiro Aula - Desenvolvimento Trabalhos - 21/09/2022](aula09.md)
 - #### [APRESENTAÇÃO PITCH E ENTREGA CANVAS - 28/09/2022]
 - #### [NÃO HAVERÁ AULA - AVALIAÇÃO INEP - 05/10/2022]
