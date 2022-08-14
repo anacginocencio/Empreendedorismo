@@ -1,4 +1,4 @@
-# Aula 04 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Oportunidades de Negócio - Parte II
 
 > * Continuação aula inovação 
@@ -14,7 +14,7 @@
 [![Aula - Oportunidades de Negócio PARTE I](capa_aula6.png)](https://www.youtube.com/watch?v=Qr36QUCIfGQ)
 
 
-### Desenvolvimento aula 04: 
+### Desenvolvimento aula: 
 
 - [ ]  O empreendedor deve saber o que quer
 - [ ]  Como procurar uma oportunidade de negócio
