@@ -20,7 +20,7 @@
 [![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
 
 
-### Desenvolvimento aula 01: 
+### Desenvolvimento aula: 
 
 - [ ]  Apresentação Plano de ensino
 - [ ]  Conceitos iniciais
