@@ -1,6 +1,6 @@
 ### Aulas
 - [Roteiro Aula O que é empreendedorismo - 10/08/2022](aula01.md)
-- [Roteiro Aula Empreender como opção de carreira - 10/08/2022](aula02.md)
+- [Roteiro Aula Empreender como opção de carreira - 17/08/2022](aula02.md)
 - [Roteiro Aula Oportunidades de Negócio - Parte 1 - 17/08/2022](aula03.md)
 - [Roteiro Aula Oportunidades de Negócio - Parte 2 - 17/08/2022](aula04.md)
 - [Roteiro Design Thinking - Parte 1 - 24/08/2022](aula05.md)
