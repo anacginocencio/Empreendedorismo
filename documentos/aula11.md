@@ -1,8 +1,7 @@
-# Aula 11 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Pitch
 
-> Aula 30/11/2021
-> 
+
 > * Trabalhar conceitos sobre pitch e como melhor desenvolver esta poderasa ferramenta para apresentação de ideias inovadoras
 
 ## Atividades da aula - Conceitos relacionados ao pitch e como melhor desenvolver um pitch
