@@ -10,6 +10,6 @@
 
 - [GRUPO 01 - ]
 
-### Desenvolvimento aula 09: 
+### Desenvolvimento aula: 
 
 - [ ]  Discutir com cada grupo o tema que será trabalhado
