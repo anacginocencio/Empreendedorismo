@@ -1,4 +1,4 @@
-# Aula 01 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - O que é empreendedorismo
 
 >  * Apresentação da Disciplina e Principais Conceitos sobre empreendedorismo e habilidades a serem desenvolvidas
