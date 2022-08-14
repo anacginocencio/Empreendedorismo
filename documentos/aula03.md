@@ -14,7 +14,7 @@
 [![Aula - Oportunidades de Negócio PARTE I](capa_aula5.png)](https://www.youtube.com/watch?v=cZax4ZMC6nU)
 
 
-### Desenvolvimento aula 03: 
+### Desenvolvimento aula: 
 
 - [ ]  O que é inovação 
 - [ ]  Impacto da inovação tecnológica
