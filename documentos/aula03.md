@@ -1,4 +1,4 @@
-# Aula 03 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Oportunidades de Negócio - Parte I
 
 > * Compreender os conceitos sobre inovação e como se estruturam empresas de tecnologia
