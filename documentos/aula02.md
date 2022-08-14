@@ -1,4 +1,4 @@
-# Aula 02 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Empreender como opção de carreira
 
 > * Compreender os conceitos acerca do desenvolvimento de um negócio próprio, etapas principais, criar com limites
@@ -26,4 +26,3 @@
 - Cigarro: fumar, cigarro, hálito, prazer, nicotina, maço, tragada, sabor, acender.
 - Pasta de dente: dentes, hálito, pasta, refrescante, cáries, sabor, flúor, escova.
 - Sabonete: banho, suave, higiene, sabonete, beleza, espuma, perfume, limpeza, corpo.
-- [ ]  Proponha um negócio que reflita sua motivação para empreender. 
