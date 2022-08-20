@@ -18,6 +18,7 @@
 
 - [ ]  O empreendedor deve saber o que quer
 - [ ]  Como procurar uma oportunidade de negócio
+- [ ]  Estabelecer Grupos de Empreendedores - mínimo 3 e máximo 5
 
 ### Atividades:
 
