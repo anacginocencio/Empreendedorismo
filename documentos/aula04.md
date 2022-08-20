@@ -18,4 +18,3 @@
 
 - [ ]  O empreendedor deve saber o que quer
 - [ ]  Como procurar uma oportunidade de negócio
-- [ ]  Atividade para apresentação em aula: Faça uma pesquisa sobre prêmios de incentivo à inovação. Sugestão: faça uma busca na Internet com os termos “prêmio de inovação”. Não deixe de consultar os critérios de julgamento do Prêmio Finep de Inovação.
