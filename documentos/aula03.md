@@ -20,4 +20,8 @@
 - [ ]  Impacto da inovação tecnológica
 - [ ]  Regra da volta à estaca-zero
 - [ ]  Diferenças entre uma lanchonete e uma empresa de tecnologia
-- [ ]  Proponha um negócio que reflita sua motivação para empreender. 
+
+### Atividades:
+
+- [ ] Atividade 1 – Grupo – Um dos grandes problemas de nossa cidade e de outras é a quantidade de animais que são abandonados. Sendo assim, o objetivo seu e do seu grupo é propor soluções para que este problema seja minimizado ou até mesmo solucionado em nossa cidade e quiçá em nosso país.
+- [ ] Atividade 2 - Proponha um negócio que reflita sua motivação para empreender. 
