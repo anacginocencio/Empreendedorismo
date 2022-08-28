@@ -1,8 +1,7 @@
-# Aula 05 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Design Thinking - Parte I
 
-> Aula 16/11/2021
-> 
+ 
 > * O processo de design thinking como forma de identificação de oportunidades de negócios 
 
 ## Atividades da aula - Conceitos iniciais Design Thinking, Vídeo ideo card, vídeo Círculo dourado de Simon
