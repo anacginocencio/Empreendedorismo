@@ -22,10 +22,6 @@
 [![Aula - SIMON](video_simon2.png)](https://www.youtube.com/watch?v=POfQlg0V0Cc)
 
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 22/11/2021
-
-- [Atividade](https://forms.gle/iErxz3NxtHjNACr86)
-
 ### Desenvolvimento aula 05: 
 
 - [ ]  Principais Conceitos Design Thinking
