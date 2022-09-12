@@ -20,7 +20,7 @@
 [![Planejamento da carreira](capa_planejamento.png)](https://www.youtube.com/watch?v=bdhEmdgZqV4)
 
 
-### Desenvolvimento aula 07: 
+### Desenvolvimento aula: 
 
 - [ ]  Apresentar um exemplo de uso do modelo canvas - Groupon
 - [ ]  Mostrar as divisões e onde o mapa de empatia se encaixa no modelo canvas
