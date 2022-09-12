@@ -1,4 +1,4 @@
-# Aula 07 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Modelo Canvas - Parte I
 
 > Aula 23/11/2021
@@ -21,11 +21,7 @@
 
 [![Vídeo animação Canvas](animacao_canvas.png)](https://www.youtube.com/watch?v=tYbvFYQGm-0)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
-
-- [Atividade](https://forms.gle/qVpJ24DvM5FiPna2A)
-
-### Desenvolvimento aula 07: 
+### Desenvolvimento aula: 
 
 - [ ]  Apresentar os 9 blocos que constituem o modelo canvas
 - [ ]  Mostrar a importância deste modelo para planejar um novo negócio de forma rapida e com flexibilidade
