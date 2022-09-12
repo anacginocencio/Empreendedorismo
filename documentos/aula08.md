@@ -1,8 +1,6 @@
-# Aula 08 - Empreendedorismo
+# Empreendedorismo
 ## Tema aula - Modelo Canvas - Parte II
 
-> Aula 23/11/2021
-> 
 > * Trabalhar exemplos de uso do modelo canvas, atividade planejamento carreira
 
 ## Atividades da aula - Conceitos relacionados ao canvas como complemento ao plano de negócios e atividade para uso do modelo canvas
@@ -21,10 +19,6 @@
 
 [![Planejamento da carreira](capa_planejamento.png)](https://www.youtube.com/watch?v=bdhEmdgZqV4)
 
-
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 30/11/2021
-
-- [Atividade](https://forms.gle/qVpJ24DvM5FiPna2A)
 
 ### Desenvolvimento aula 07: 
 
