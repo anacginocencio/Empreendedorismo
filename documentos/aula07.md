@@ -1,8 +1,6 @@
 # Empreendedorismo
 ## Tema aula - Modelo Canvas - Parte I
 
-> Aula 23/11/2021
-> 
 > * Trabalhar os principais conceitos sobre o modelo canvas
 
 ## Atividades da aula - Conceitos relacionados ao canvas como complemento ao plano de negócios
