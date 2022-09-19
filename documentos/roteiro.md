@@ -9,9 +9,9 @@
 - [Roteiro Canvas - Parte 1 - 14/09/2022](aula07.md)
 - [Roteiro Canvas - Parte 2 - 14/09/2022](aula08.md)
 - [Roteiro Aula - Pitch - 21/09/2022](aula11.md)
-- [Roteiro Aula - Desenvolvimento Trabalhos - 21/09/2022](aula09.md)
-- #### [APRESENTAÇÃO PITCH E ENTREGA CANVAS - 28/09/2022]
-- #### [NÃO HAVERÁ AULA - AVALIAÇÃO INEP - 05/10/2022]
+- [Roteiro Aula - DESENVOLVIMENTO PITCH E CANVAS - 21/09/2022](aula09.md)
+- #### [DESENVOLVIMENTO PITCH E CANVAS - 28/09/2022]
+- #### [NÃO HAVERÁ AULA PRESENCIAL - AVALIAÇÃO INEP - ENTREGA TRABALHOS SIGAA- 05/10/2022]
 - #### [FERIADO NOSSA SENHORA APARECIDA - 12/10/2022]
 - #### [CONEPE - 19/10/2022](https://conepe.ufj.edu.br/)
 - #### [REPOSIÇÃO DISCUSSÃO MÉDIAS - 21/10/2022]
