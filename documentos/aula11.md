@@ -1,7 +1,6 @@
 # Empreendedorismo
 ## Tema aula - Pitch
 
-
 > * Trabalhar conceitos sobre pitch e como melhor desenvolver esta poderasa ferramenta para apresentação de ideias inovadoras
 
 ## Atividades da aula - Conceitos relacionados ao pitch e como melhor desenvolver um pitch
@@ -21,11 +20,7 @@
 [![Exemplo Pitch](capa_exemplo_pitch.png)](https://www.youtube.com/watch?v=cM2BTr5-w-I)
 
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 07/12/2021
-
-- [Atividade](https://forms.gle/Tma25DLBj41zP5gF8)
-
-### Desenvolvimento aula 07: 
+### Desenvolvimento aula: 
 
 - [ ] O que é Pitch?
 - [ ] Como elaborar?
