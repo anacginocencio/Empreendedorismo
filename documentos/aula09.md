@@ -1,4 +1,4 @@
-# Empreendedorismo - Assíncrona
+# Empreendedorismo 
 ## Desenvolvimento trabalhos
 
 > 
