@@ -1,7 +1,6 @@
-# Aula 19 - Empreendedorismo
+# Aula - Empreendedorismo
 ## Tema aula - Plano de Negócios - CLIENTE - MERCADO
-> Aula 18/01/2022
-> 
+
 > * Trabalhar conceitos iniciais sobre o plano de negócios e o tema cliente e mercado
 
 ## Atividades da aula - Conceitos relacionados a segmentação de mercado, personas e jornada do cliente
@@ -16,11 +15,8 @@
 
 [![Aula - Cliente-Mercado](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 24/01/2022
 
-- [Atividade](https://forms.gle/JZHYSMVPBCADCHZT8)
-
-### Desenvolvimento aula 19: 
+### Desenvolvimento aula: 
 
 - [ ] O que é público-alvo?
 - [ ] Como definir a segmentação de mercado?
