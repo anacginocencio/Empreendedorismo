@@ -1,7 +1,6 @@
 # Aula - Empreendedorismo
 ## Tema aula - Plano de Negócios - FERRAMENTA PNBOX - SEÇÃO CLIENTE-MERCADO
-> Aula 18/01/2022
-> 
+
 > * Trabalhar de forma prática os conceitos apresentados sobre cliente e mercado
 
 ## Atividades da aula - Nesta aula serão apresentadas as ações necessárias para criar a segmentação de mercado, personas e jornada do cliente
@@ -10,7 +9,7 @@
 
 ### Materiais
 
-- [Slides aula 20](aula_19_pnbox_cliente_mercado.pdf)
+- [Slides aula](aula_19_pnbox_cliente_mercado.pdf)
 
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - SEGMENTAÇÃO
 
