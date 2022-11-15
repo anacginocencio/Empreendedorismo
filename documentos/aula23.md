@@ -1,4 +1,4 @@
-# Aula 23 - Empreendedorismo
+# Aula- Empreendedorismo
 ## Tema aula - Plano de Negócios - FERRAMENTA PNBOX - SEÇÃO FINANÇAS
 > 
 > * Entender os principais conceitos relacionados a parte de finanças de um negócio, dentre eles Luco, Lucratividade, Rentabilidade
@@ -16,11 +16,8 @@
 
 [![Aula - TEORICA FINANCAS](capa_aula23.png)](https://youtu.be/f1RRfJceR4o)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 08/02/2022
 
-- [Atividade](https://forms.gle/P5fsqnprkDLLBid89)
-
-### Desenvolvimento aula 23: 
+### Desenvolvimento aula: 
 
 - [ ] Quais os investimentos necessários para o funcionamento de um negócio.
 - [ ] Exemplo de Capital de Giro e sua importância para o funcionamento do negócio
