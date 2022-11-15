@@ -1,4 +1,4 @@
-# Aula 20 - Empreendedorismo
+# Aula - Empreendedorismo
 ## Tema aula - Plano de Negócios - FERRAMENTA PNBOX - SEÇÃO CLIENTE-MERCADO
 > Aula 18/01/2022
 > 
@@ -22,10 +22,6 @@
 
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - JORNADA DO CLIENTE
 [![Aula - PNBOX](capa_aula20_parte3.png)](https://youtu.be/rX6NguklIN8)
-
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 24/01/2022
-
-- [Atividade](https://forms.gle/JZHYSMVPBCADCHZT8)
 
 ### Desenvolvimento aula 20: 
 
