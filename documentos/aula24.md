@@ -1,4 +1,4 @@
-# Aula 24 - Empreendedorismo
+# Aula - Empreendedorismo
 ## Tema aula - PRÁTICA - FERRAMENTA PNBOX - SEÇÃO FINANÇAS
 > 
 > * Entender os principais conceitos relacionados a parte de finanças de um negócio, dentre eles Luco, Lucratividade, Rentabilidade
@@ -9,7 +9,7 @@
 
 ### Materiais
 
-- [Slides aula 24](aula_23_pnbox_financas.pdf)
+- [Slides aula](aula_23_pnbox_financas.pdf)
 
 ### Vídeo aula empreendedorismo -  PRÁTICA - PNBOX - FINANÇAS - PARTE 1
 
@@ -19,11 +19,9 @@
 
 [![Aula - PRATICA FINANCAS - PARTE 2](capa_aula24_2.png)](https://youtu.be/aT7YTxUG3pw)
 
-####  Atividade frequência para quem não participou da aula síncrona - Prazo 08/02/2022
 
-- [Atividade](https://forms.gle/P5fsqnprkDLLBid89)
 
-### Desenvolvimento aula 24: 
+### Desenvolvimento aula: 
 
 - [ ] Explicar a Seção Investimento e discutir sobre a dependência das seções em um planejamento financeiro
 - [ ] Explicar a Seção Ganhos, Custos 
