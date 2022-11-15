@@ -1,4 +1,4 @@
-# Aula 22 - Empreendedorismo
+# Aula - Empreendedorismo
 ## Tema aula - Plano de Negócios - PRÁTICA - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA
 
 > * Trabalhar conceitos práticos com a ferramenta pnbox, necessários para desenvolver os itens relacionados ao problema e solução e canais de venda do plano de negócios
