@@ -22,7 +22,7 @@
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - JORNADA DO CLIENTE
 [![Aula - PNBOX](capa_aula20_parte3.png)](https://youtu.be/rX6NguklIN8)
 
-### Desenvolvimento aula 20: 
+### Desenvolvimento aula: 
 
 - [ ] Como melhor utilizar a ferramenta pnbox para desenvolvimento do plano de negócios
 - [ ] Apresentação das principais características da ferramenta
