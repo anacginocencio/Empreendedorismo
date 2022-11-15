@@ -10,8 +10,8 @@
 
 ### Materiais
 
-- [Slides aula 21-1 - Problema- Solução](aula_21_1_teorica_pnbox_proposta_valor.pdf)
-- [Slides aula 21-2 - Canais de Venda](aula_21_2_teorica_pnbox_canais_vendas.pdf)
+- [Slides aula 1 - Problema- Solução](aula_21_1_teorica_pnbox_proposta_valor.pdf)
+- [Slides aula 2 - Canais de Venda](aula_21_2_teorica_pnbox_canais_vendas.pdf)
 
 ### Vídeo aula empreendedorismo -  PRÁTICA - Problema - Solução
 
@@ -22,11 +22,8 @@
 [![Aula - PRÁTICA- Problema - Solução](capa_aula22_2.png)](https://youtu.be/JptCX8dGK0I)
   
 
-####  Atividade frequência aula ASSÍNCRONA - Prazo 01/02/2022
 
-- [Atividade](https://forms.gle/H7PJziZ33YXAxokq5)
-
-### Desenvolvimento aula 22: 
+### Desenvolvimento aula: 
 
 - [ ] Como definir a proposta de valor na ferramenta pnbox?
 - [ ] Quem são os concorrentes e como analisar a concorrência, utilizando a ferramenta pnbox?
