@@ -8,7 +8,6 @@
 - [Roteiro - Canvas - Parte 1 ](aula07.md)
 - [Roteiro - Canvas - Parte 2 ](aula08.md)
 - [Roteiro - Pitch ](aula11.md)
-- [Roteiro - DESENVOLVIMENTO PITCH E CANVAS ](aula09.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula19.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula20.md)
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/2022](aula21.md)
