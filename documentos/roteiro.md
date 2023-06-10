@@ -1,27 +1,17 @@
 ### Aulas
-- [Roteiro Aula O que é empreendedorismo - 10/08/2022](aula01.md)
-- [Roteiro Aula Empreender como opção de carreira - 17/08/2022](aula02.md)
-- [Roteiro Aula Oportunidades de Negócio - Parte 1 - 24/08/08/2022](aula03.md)
-- [Roteiro Aula Oportunidades de Negócio - Parte 2 - 24/08/2022](aula04.md)
-- [Roteiro Design Thinking - Parte 1 - 31/08/2022](aula05.md)
-- [Roteiro Design Thinking - Parte 2 - 31/08/2022](aula06.md)
-- #### [FERIADO INDEPENDÊNCIA DO BRASIL - 07/09/2022]
-- [Roteiro Canvas - Parte 1 - 14/09/2022](aula07.md)
-- [Roteiro Canvas - Parte 2 - 14/09/2022](aula08.md)
-- [Roteiro Aula - Pitch - 21/09/2022](aula11.md)
-- [Roteiro Aula - DESENVOLVIMENTO PITCH E CANVAS - 21/09/2022](aula09.md)
-- #### [DESENVOLVIMENTO PITCH E CANVAS - 28/09/2022]
-- #### [NÃO HAVERÁ AULA PRESENCIAL - AVALIAÇÃO INEP - ENTREGA TRABALHOS SIGAA- 05/10/2022]
-- #### [FERIADO NOSSA SENHORA APARECIDA - 12/10/2022]
-- #### [CONEPE - 19/10/2022](https://conepe.ufj.edu.br/)
-- #### [REPOSIÇÃO DISCUSSÃO MÉDIAS - 21/10/2022]
-- [Roteiro Aula - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula19.md)
-- [Roteiro Aula - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula20.md)
-- [Roteiro Aula - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/2022](aula21.md)
-- [Roteiro Aula - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/202](aula22.md)
-- [Roteiro Aula - Plano de Negócios  - FINANÇAS - 16/11/2022](aula23.md)
-- [Roteiro Aula - Plano de Negócios  - FINANÇAS - 16/11/2022](aula24.md)
-- [Roteiro Aula - Desenvovimento Plano - 23/11/2022]
-- [Roteiro Aula - Desenvovimento Plano - 30/11/2022]
-- #### [Roteiro Aula - Entrega Plano de Negócios - 02/12/2022]
-- #### [DISCUSSÃO MÉDIAS - 05/12/2022]
+- [Roteiro - O que é empreendedorismo](aula01.md)
+- [Roteiro - Empreender como opção de carreira](aula02.md)
+- [Roteiro - Oportunidades de Negócio - Parte 1](aula03.md)
+- [Roteiro - Oportunidades de Negócio - Parte 2](aula04.md)
+- [Roteiro - Design Thinking - Parte 1](aula05.md)
+- [Roteiro - Design Thinking - Parte 2](aula06.md)
+- [Roteiro - Canvas - Parte 1 - 14/09/2022](aula07.md)
+- [Roteiro - Canvas - Parte 2 - 14/09/2022](aula08.md)
+- [Roteiro - Pitch - 21/09/2022](aula11.md)
+- [Roteiro - DESENVOLVIMENTO PITCH E CANVAS - 21/09/2022](aula09.md)
+- [Roteiro - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula19.md)
+- [Roteiro - Plano de Negócios - CLIENTE e MERCADO - 26/10/2022](aula20.md)
+- [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/2022](aula21.md)
+- [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA - 09/11/202](aula22.md)
+- [Roteiro - Plano de Negócios  - FINANÇAS - 16/11/2022](aula23.md)
+- [Roteiro - Plano de Negócios  - FINANÇAS - 16/11/2022](aula24.md)
