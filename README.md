@@ -1,18 +1,18 @@
 # Empreendedorismo - Curso de Ciência da Computação - UFJ
 
-# PLANEJAMENTO SEMESTRAL – 2022/1 (2022)
+# PLANEJAMENTO SEMESTRAL – 2023/1 - PRIMEIRO PERÍODO
 
-- [Aulas toda Quarta-feira: 13h30 às 17h10]
-- [Local: UFJ - Campus Jatobá - Anfiteatro Superior - CA01]
-- [Plano de Ensino e Cronograma](documentos/plano_ensino_empreendedorismo.pdf)
+- [Aulas toda Terça-feira: 09h30 às 11h10 e 13h30 às 15h10]
+- [Local: UFJ - Campus Jatobá - Central de Aulas 01 - Sala 02]
+- [Plano de Ensino e Cronograma](documentos/plano_ensino_empreendedorismo_primeiro.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
-- [Grupo Dúvidas WhatsApp](https://chat.whatsapp.com/FcXW3kkGl01KwTJbSAgvaM)
+- 08/08/2023 - ENTREGA CANVAS E APRESENTAÇÃO PITCH 
+- 26/09/2023 - ENTREGA PLANO DE NEGÓCIOS
 
-#  CRONOGRAMA AVALIAÇÕES E ENTREGAS
-
-##  ATIVIDADES AVALIATIVAS N1
->  * 05/10/2022 - ENTREGA CANVAS E APRESENTAÇÃO PITCH 
-
-
-##  ATIVIDADES AVALIATIVAS N2
->  * 02/12/2022 - ENTREGA PLANO DE NEGÓCIO
+# PLANEJAMENTO SEMESTRAL – 2023/1 - SÉTIMO PERÍODO
+- [Aulas toda Quarta-feira: 07h30 às 11h10]
+- [Local: UFJ - Campus Jatobá - Central de Aulas 01 - Sala 12]
+- [Plano de Ensino e Cronograma](documentos/plano_ensino_empreendedorismo_setimo.pdf)
+- [Roteiro de aulas e materiais](documentos/roteiro.md)
+- 09/08/2023 - ENTREGA CANVAS E APRESENTAÇÃO PITCH 
+- 27/09/2023 - ENTREGA PLANO DE NEGÓCIOS
