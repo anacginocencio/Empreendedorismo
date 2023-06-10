@@ -6,6 +6,7 @@
 - [Local: UFJ - Campus Jatobá - Central de Aulas 01 - Sala 02]
 - [Plano de Ensino e Cronograma](documentos/plano_ensino_empreendedorismo_primeiro.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
+- [CRONOGRAMA](documentos/cronograma_primeiro.png)
 - 08/08/2023 - ENTREGA CANVAS E APRESENTAÇÃO PITCH 
 - 26/09/2023 - ENTREGA PLANO DE NEGÓCIOS
 
@@ -14,5 +15,6 @@
 - [Local: UFJ - Campus Jatobá - Central de Aulas 01 - Sala 12]
 - [Plano de Ensino e Cronograma](documentos/plano_ensino_empreendedorismo_setimo.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
+- [CRONOGRAMA](documentos/cronograma_setimo.png)
 - 09/08/2023 - ENTREGA CANVAS E APRESENTAÇÃO PITCH 
 - 27/09/2023 - ENTREGA PLANO DE NEGÓCIOS
