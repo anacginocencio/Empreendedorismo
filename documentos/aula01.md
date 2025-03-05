@@ -8,7 +8,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](plano_ensino_remoto_empreendedorismo_2021_1_assinado.pdf)
+- [Plano de Ensino](documentos/plano_ensino_empreendedorismo_2025.pdf)
 - [Slides aula 01](Aula_1_o_que_e_empreendedorismo.pdf)
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
@@ -27,4 +27,4 @@
 - [ ]  Apresentação pessoal com diferencial (O que te faz diferente em um grupo?)
 - [ ]  O processo empreendedor
 - [ ]  Principais características de um empreendedor
-- [ ]  Jogos para auxiliar no desenvolvimento de habilidades empreendedoras: https://www.sebrae.com.br/sites/PortalSebrae/artigos/jogos-online-capacitam-empreendedores-e-estudantes-de-forma-ludica,925a6eaecc801710VgnVCM1000004c00210aRCRD
+
