@@ -8,7 +8,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](documentos/plano_ensino_empreendedorismo_2025.pdf)
+- [Plano de Ensino](plano_ensino_empreendedorismo_2025.pdf)
 - [Slides aula 01](Aula_1_o_que_e_empreendedorismo.pdf)
 
 ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
