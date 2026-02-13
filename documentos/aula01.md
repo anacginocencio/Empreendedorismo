@@ -1,19 +1,18 @@
 # Empreendedorismo
-## Tema aula - O que é empreendedorismo
+## Introdução Empreendedorismo e Empreendedorismo Tecnológico e Digital
 
->  * Apresentação da Disciplina e Principais Conceitos sobre empreendedorismo e habilidades a serem desenvolvidas
-
-## Atividades da aula - Plano de ensino, principais conceitos, vídeo características empreendedor
+>  * Dinâmica Diferencial, Apresentação Disciplina (plano de ensino)
+>  * Introdução ao empreendedorismo (principais conceitos), empreendedorismo tecnológico e o ser empreendedor
 
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](plano_ensino_empreendedorismo_2025.pdf)
-- [Slides aula 01](Aula_1_o_que_e_empreendedorismo.pdf)
+- [Plano de Ensino](plano_ensino_empreendedorismo_2026.pdf)
+- [Slides aula 01](Aula_1_Empreendedorismo.pdf)
 
-### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-[![Aula - O que é empreendedorismo PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=_rxDkEMvvSs)
-[![Aula - O que é empreendedorismo PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=EhjSYRNlUrU)
+//### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
+//[![Aula - O que é empreendedorismo PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=_rxDkEMvvSs)
+//[![Aula - O que é empreendedorismo PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=EhjSYRNlUrU)
 
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
