@@ -16,6 +16,12 @@
 
 [![material complementar aula02 - “The Puzzle of Motivation” de Dan Pink](empreendedor.png)]([https://www.youtube.com/watch?v=kpjwWSojRic](https://www.youtube.com/watch?v=rrkrvAUbU9Y))
 
+#### REFLEXÃO SOBRE MATERIAL COMPLEMENTAR.
+
+> * Dinheiro não é a principal motivação quando o trabalho exige criatividade e solução de problemas.
+> * Empreender em tecnologia exige autonomia, desenvolvimento de habilidades e propósito, não apenas incentivos financeiros.
+> * Logo, ao pensarem em seus projetos de negócios, vale perguntar: (I) “Quem quer fazer isso porque acredita no valor do problema que está resolvendo?” (II)“Ou só está repetindo um modelo motivado por recompensa imediata?”
+
 ### Desenvolvimento aula 01: 
 
 - [ ]  Perfil do empreendedor
