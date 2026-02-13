@@ -10,7 +10,7 @@
 - [Plano de Ensino](plano_ensino_empreendedorismo_2026.pdf)
 - [Slides aula 01](Aula_1_Empreendedorismo.pdf)
 
-####  O vídeo abaixo mostra as principais características de um empreendedor
+####  Os vídeos abaixo mostram as principais características de um empreendedor e o Por quê de um negócio é tão importante
 
 [![material complementar aula01 - Características Empreendedor](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
 [![material complementar aula01 - O por quê- Simon Sinek](empreendedor.png)](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
