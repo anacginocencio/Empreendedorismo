@@ -7,7 +7,7 @@
 ## Instalação da Disciplina
 
 ### Materiais
-- [Plano de Ensino](plano_ensino_empreendedorismo_2026.pdf)
+- [Plano de Ensino](plano_de_ensino_emp_2026_1.pdf)
 - [Slides aula 01](Aula_1_Empreendedorismo.pdf)
 
 ####  Os vídeos abaixo mostram as principais características de um empreendedor e o Por quê de um negócio é tão importante
