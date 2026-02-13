@@ -10,20 +10,21 @@
 - [Plano de Ensino](plano_ensino_empreendedorismo_2026.pdf)
 - [Slides aula 01](Aula_1_Empreendedorismo.pdf)
 
-# comment ### Videos aulas empreendedorismo -  O que é empreendedorismo - Parte I e Parte II
-# comment [![Aula - O que é empreendedorismo PARTE I](capa_aula1.png)](https://www.youtube.com/watch?v=_rxDkEMvvSs)
-# comment [![Aula - O que é empreendedorismo PARTE II](capa_aula2.png)](https://www.youtube.com/watch?v=EhjSYRNlUrU)
-
 ####  O vídeo abaixo mostra as principais características de um empreendedor
 
-[![material complementar aula01](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
+[![material complementar aula01 - Características Empreendedor](empreendedor.png)](https://www.youtube.com/watch?v=kpjwWSojRic)
+[![material complementar aula01 - O por quê- Simon Sinek](empreendedor.png)](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
 
 
-### Desenvolvimento aula: 
+### Desenvolvimento aula 1: 
 
-- [ ]  Apresentação Plano de ensino
-- [ ]  Conceitos iniciais
-- [ ]  Apresentação pessoal com diferencial (O que te faz diferente em um grupo?)
-- [ ]  O processo empreendedor
-- [ ]  Principais características de um empreendedor
+- [ ]  Dinâmica Diferencial - Importância de ser único
+- [ ]  Apresentação disciplina - Plano de ensino, cronograma, avaliações
+
+### Desenvolvimento aula 2: 
+- [ ]  Introdução ao empreendedorismo (conceitos, mitos)
+- [ ]  Empreendedorismo Tecnológico
+- [ ]  Ser empreendedor
+- [ ]  Áreas que o aluno de computação pode empreender
+- [ ]  Dinâmica Problemas
 
