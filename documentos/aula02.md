@@ -12,7 +12,7 @@
 ### Materiais
 - [Slides aula 02](Aula_2_Empreendedorismo.pdf)
 
-#### O vídeo abaixo explora o que realmente nos motiva, questionando a ideia tradicional de que mais dinheiro e recompensas externas levam a melhor desempenho.
+#### O vídeo abaixo (“The Puzzle of Motivation” de Dan Pink) explora o que realmente nos motiva, questionando a ideia tradicional de que mais dinheiro e recompensas externas levam a melhor desempenho.
 
 [![material complementar aula02 - “The Puzzle of Motivation” de Dan Pink](empreendedor.png)]([https://www.youtube.com/watch?v=kpjwWSojRic](https://www.youtube.com/watch?v=rrkrvAUbU9Y))
 
