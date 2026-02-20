@@ -1,6 +1,7 @@
 ### Aulas
 - [Roteiro - Introdução ao Empreendedorismo e Empreendedorismo Tecnológico e Digital](aula01.md)
 - [Roteiro - Empreender como opção de carreira](aula02.md)
+<!--
 - [Roteiro - Oportunidades de Negócio Tecnológico e Inovação Tecnológica](aula03.md)
 - [Roteiro - Oportunidades de Negócio e Inovação Tecnológcia- Parte 2](aula04.md)
 - [Roteiro - Design Thinking - Parte 1](aula05.md)
@@ -14,3 +15,4 @@
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula22.md)
 - [Roteiro - Plano de Negócios  - FINANÇAS ](aula23.md)
 - [Roteiro - Plano de Negócios  - FINANÇAS ](aula24.md)
+-->
