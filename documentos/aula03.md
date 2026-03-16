@@ -1,22 +1,37 @@
 # Empreendedorismo
-## Tema aula - Oportunidades de Negócio - Parte I
-
-> * Compreender os conceitos sobre inovação e como se estruturam empresas de tecnologia
-
-## Atividades da aula - Apresentar os conceitos sobre inovação e a necessidade de introduzir inovação em produtos de tecnologia
-
-## Instalação da Disciplina
+## Tema aula - Oportunidades de Negócio e Inovação Tecnológica
 
 ### Materiais
-- [Slides aula 03](Aula_3_oportunidades_de_negocio_parte1.pdf)
-
-### Videos aulas empreendedorismo -  Oportunidades de Negócio - Parte I
-[![Aula - Oportunidades de Negócio PARTE I](capa_op_01.png)](https://www.youtube.com/watch?v=cZax4ZMC6nU)
+- [Slides aula 03](Aula_3_Empreendedorismo.pdf)
 
 
-### Desenvolvimento aula: 
+#### O vídeo abaixo (DE ONDE VÊM AS BOAS IDEIAS por Steven Johnson) explica de onde surgem boas ideias, mostrando como a inovação acontece quando ideias se conectam
 
-- [ ]  O que é inovação 
+[![material complementar aula03 - “DE ONDE VÊM AS BOAS IDEIAS por Steven Johnson](empreendedor.png)](https://www.youtube.com/watch?v=NugRZGDbPFU)
+
+
+#### REFLEXÃO SOBRE MATERIAL COMPLEMENTAR.
+
+> Ideias surgem de forma individual ou colaborativa? Como a tecnologia pode gerar novas oportunidades de negócio?
+
+### Desenvolvimento aula 01: 
+
+- [ ]  Inovação lanchonete vs empresa tecnológica
+- [ ]  O que é inovação
+- [ ]  Inovação no produto
+- [ ]  Inovação no processo
+- [ ]  Inovação no modelo de negócio
+- [ ]  Tecnologias que mudaram o mundo
 - [ ]  Impacto da inovação tecnológica
+- [ ]  Inobação tecnológica gerando oportunidades de negócios
 - [ ]  Regra da volta à estaca-zero
-- [ ]  Diferenças entre uma lanchonete e uma empresa de tecnologia
+- [ ]  Conceito de Valor agregado
+- [ ]  Acesso a Mercado global
+- [ ]  Vantagem competititva
+- [ ]  Criatividade
+
+### Desenvolvimento aula 02: 
+- [ ]  Como identificar oportunidades
+- [ ]  Caminhos para identificar oportunidades: Necessidades não atendidas, Melhorar algo existente, Aplicar tecnologia nova
+- [ ]  Tendências
+- [ ]  Dinâmica Grupo - Criando um negócio tecnológico
