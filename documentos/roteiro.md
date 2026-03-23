@@ -2,10 +2,8 @@
 - [Roteiro - Introdução ao Empreendedorismo e Empreendedorismo Tecnológico e Digital](aula01.md)
 - [Roteiro - Empreender como opção de carreira](aula02.md)
 - [Roteiro - Oportunidades de Negócio e Inovação Tecnológica](aula03.md)
+- [Roteiro - Design Thinking - Parte 1](aula04.md)
 <!--
-- [Roteiro - Oportunidades de Negócio e Inovação Tecnológcia- Parte 2](aula04.md)
-- [Roteiro - Design Thinking - Parte 1](aula05.md)
-- [Roteiro - Design Thinking - Parte 2](aula06.md)
 - [Roteiro - Canvas - Parte 1 ](aula07.md)
 - [Roteiro - Canvas - Parte 2 ](aula08.md)
 - [Roteiro - Pitch ](aula11.md)
