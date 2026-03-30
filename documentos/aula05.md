@@ -22,7 +22,6 @@
 - [ ]  Apresentar a divisão entre os blocos que independem e os que dependem do cliente
 - [ ]  Vídeo animação Modelo Canvas
 
-- [ ]  
 ### Desenvolvimento aula 2: 
 
 - [ ]  Apresentar um exemplo de uso do modelo canvas - Groupon
