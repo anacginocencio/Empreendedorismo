@@ -3,7 +3,7 @@
 - [Empreender como opção de carreira](aula02.md)
 - [Oportunidades de Negócio e Inovação Tecnológica](aula03.md)
 - [Design Thinking](aula04.md)
-- [Canvas](aula05.md)
+- [Modelo Canvas](aula05.md)
 
 <!--
 - [Roteiro - Pitch ](aula11.md)
