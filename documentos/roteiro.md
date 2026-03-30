@@ -3,9 +3,9 @@
 - [Empreender como opção de carreira](aula02.md)
 - [Oportunidades de Negócio e Inovação Tecnológica](aula03.md)
 - [Design Thinking](aula04.md)
+- [Canvas](aula05.md)
+
 <!--
-- [Roteiro - Canvas - Parte 1 ](aula07.md)
-- [Roteiro - Canvas - Parte 2 ](aula08.md)
 - [Roteiro - Pitch ](aula11.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula19.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula20.md)
