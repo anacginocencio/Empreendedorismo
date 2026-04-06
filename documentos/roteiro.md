@@ -5,7 +5,7 @@
 - [Design Thinking](aula04.md)
 - [Modelo Canvas](aula05.md)
 - [Roteiro - Pitch ](aula6.md)
-- <!--
+<!--
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula19.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula20.md)
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula21.md)
