@@ -1,25 +1,23 @@
 # Empreendedorismo
-## Tema aula - Design Thinking - Parte II
+## Tema aula - Desenvolvendo o Pitch do seu negócio
 
-
-> * O processo de design thinking como forma de identificação de oportunidades de negócios 
-
-## Atividades da aula - Design Thinking como um processo de imersão, ideação, prototipação e desenvolvimento. Exemplo mesa empresa e pizza em família. Brainstorming e suas regras. Design Thinking no mundo real (problema desnutrição e empresa). Ferramentas o círculo dourado de simon e mapa de empatia para desenvolvimento do negócio, próximas atividades
-
-## Instalação da Disciplina
+## Atividades da aula - Definição e como montar um pitch utilizando ferramentas de apresentação
 
 ### Materiais
 
-- [Slides aula 06](Aula_6_design_thinking_Parte2.pdf)
+- [Slides aula 06](Aula_6_Empreendedorismo.pdf)
 
-### Vídeo aula empreendedorismo -  Design Thinking - Parte II
+### Vídeo Pitch no tempo do elevador
 
-[![Aula - Design Thinking Parte II](capa_aula6.png)](https://www.youtube.com/watch?v=kpPQDioXlrs)
+[![Vídeo Pitch Elevador](elevador.png)](https://www.youtube.com/watch?v=cM2BTr5-w-I)
 
 
-### Desenvolvimento aula 06: 
 
-- [ ]  Design Thinking como um processo de imersão, ideação, prototipação e desenvolvimento. 
-- [ ]  Exemplo mesa empresa e pizza em família. Brainstorming e suas regras. 
-- [ ]  Design Thinking no mundo real (problema desnutrição e empresa). 
-- [ ]  Ferramentas o círculo dourado de Simon e mapa de empatia para desenvolvimento do negócio, próximas atividades
+### Desenvolvimento aula 1: 
+
+- [ ]  Definição do Pitch
+- [ ]  Como desenvolver um Pitch em ferramentas de apresentação
+
+### Desenvolvimento aula 2: 
+
+- [ ]  Validação da ideia de negócio em grupos (para esta atividade os grupos deverão conversar com o professor da disciplina e validar a ideia de negócio)
