@@ -4,7 +4,7 @@
 - [Oportunidades de Negócio e Inovação Tecnológica](aula03.md)
 - [Design Thinking](aula04.md)
 - [Modelo Canvas](aula05.md)
-- [Roteiro - Pitch ](aula6.md)
+- [Roteiro - Pitch ](aula06.md)
 <!--
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula19.md)
 - [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula20.md)
