@@ -8,8 +8,8 @@
 
 ### Aulas  - Planejamento Negócio Tecnológico - Plano de Negócios
 
-- [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula19.md)
-- [Roteiro - Plano de Negócios - CLIENTE e MERCADO ](aula20.md)
+- [Plano de Negócios - CLIENTE e MERCADO ](aula07.md)
+  
  <!--
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula21.md)
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula22.md)
