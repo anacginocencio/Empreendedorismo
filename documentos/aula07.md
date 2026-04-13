@@ -1,23 +1,23 @@
-# Empreendedorismo
-## Tema aula - Desenvolvendo o Pitch do seu negócio
+# Aula - Empreendedorismo
+## Tema aula - Plano de Negócios - CLIENTE - MERCADO
 
-## Atividades da aula - Definição e como montar um pitch utilizando ferramentas de apresentação
+> * Trabalhar conceitos iniciais sobre o plano de negócios e o tema cliente e mercado
+
+## Atividades da aula - Conceitos relacionados a segmentação de mercado, personas e jornada do cliente
+
+## Instalação da Disciplina - Apresentação dos conceitos teóricos sobre a importância do entendimento de quem é o cliente
 
 ### Materiais
 
-- [Slides aula 06](Aula_6_Empreendedorismo.pdf)
+- [Slides aula 19](aula_19_pnbox_cliente_mercado.pdf)
 
-### Vídeo Pitch no tempo do elevador
+### Vídeo aula empreendedorismo -  Cliente - Mercado
 
-[![Vídeo Pitch Elevador](elevador.png)](https://www.youtube.com/watch?v=cM2BTr5-w-I)
+[![Aula - Cliente-Mercado](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
 
 
+### Desenvolvimento aula: 
 
-### Desenvolvimento aula 1: 
-
-- [ ]  Definição do Pitch
-- [ ]  Como desenvolver um Pitch em ferramentas de apresentação
-
-### Desenvolvimento aula 2: 
-
-- [ ]  Validação da ideia de negócio em grupos (para esta atividade os grupos deverão conversar com o professor da disciplina e validar a ideia de negócio)
+- [ ] O que é público-alvo?
+- [ ] Como definir a segmentação de mercado?
+- [ ] Definindo personas e a jornada do cliente.
