@@ -12,4 +12,3 @@
 - [Plano de Negócios - PROBLEMA - SOLUÇÃO e Quadro de Experimentação ](aula08.md)
 - [Plano de Negócios - ESTRATÉGIA - MATRIZ SWOT ](aula09.md)
 - [Roteiro - Plano de Negócios  - FINANÇAS ](aula10.md)
-
