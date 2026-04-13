@@ -1,23 +1,36 @@
 # Aula - Empreendedorismo
 ## Tema aula - Plano de Negócios - CLIENTE - MERCADO
 
-> * Trabalhar conceitos iniciais sobre o plano de negócios e o tema cliente e mercado
-
-## Atividades da aula - Conceitos relacionados a segmentação de mercado, personas e jornada do cliente
-
-## Instalação da Disciplina - Apresentação dos conceitos teóricos sobre a importância do entendimento de quem é o cliente
+> * Conceitos relacionados a segmentação de mercado, personas e jornada do cliente
 
 ### Materiais
 
-- [Slides aula 19](aula_19_pnbox_cliente_mercado.pdf)
+- [Slides aula 07](Aula_7_Empreendedorismo.pdf)
 
 ### Vídeo aula empreendedorismo -  Cliente - Mercado
 
 [![Aula - Cliente-Mercado](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
 
+### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - SEGMENTAÇÃO
 
-### Desenvolvimento aula: 
+[![Aula - PNBOX](capa_aula20_parte1.png)](https://youtu.be/pZBI7k7T4Eg)
+
+### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - PERSONAS
+
+[![Aula - PNBOX](capa_aula20_parte2.png)](https://youtu.be/CJoYg9NJH5g)
+
+### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - JORNADA DO CLIENTE
+[![Aula - PNBOX](capa_aula20_parte3.png)](https://youtu.be/rX6NguklIN8)
+
+### Desenvolvimento aula - Parte I: 
 
 - [ ] O que é público-alvo?
 - [ ] Como definir a segmentação de mercado?
 - [ ] Definindo personas e a jornada do cliente.
+
+### Desenvolvimento aula - Parte II: 
+- [ ] - [ ] Como melhor utilizar a ferramenta pnbox para desenvolvimento do plano de negócios
+- [ ] Apresentação das principais características da ferramenta
+- [ ] Desenvolvimento da Seção CLIENTE-MERCADO (Segmentação, Personas, Jornada do Cliente)
+
+
