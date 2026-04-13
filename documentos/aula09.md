@@ -9,7 +9,7 @@
 
 ### Vídeo aula empreendedorismo -  ESTRATÉGIA - FORÇAS E FRAQUEZAS - OPORTUNIDADES E AMEAÇAS - ANÁLISE SWOT
 
-[![Aula - ESTRATÉGIA](capa_aula_empreendedorismo.png)]()
+[![Aula - ESTRATÉGIA](capa_aula_empreendedorismo.png)](https://youtu.be/Zbn-b6m0h08)
 
 
 
