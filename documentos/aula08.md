@@ -1,29 +1,29 @@
-# Empreendedorismo
-## Tema aula - Modelo Canvas - Parte II
+# Aula - Empreendedorismo
+## Tema aula - Plano de Negócios - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA
 
-> * Trabalhar exemplos de uso do modelo canvas, atividade planejamento carreira
+> * Trabalhar conceitos teóricos necessários para desenvolver os itens relacionados ao problema e solução e canais de venda do plano de negócios
 
-## Atividades da aula - Conceitos relacionados ao canvas como complemento ao plano de negócios e atividade para uso do modelo canvas
+## Atividades da aula - Conceitos relacionados a proposta de valor, análise da concorrência e quadro de experimentação. Canais de aquisição e funil de vendas
 
-## Instalação da Disciplina
+
+## Instalação da Disciplina - Nesta aula serão trabalhados os conceitos necessários para o entendimento de como uma proposta de valor deve ser descrita e a análise dos investimentos com divulgação do produto
 
 ### Materiais
 
-- [Slides aula 08](Aula_8_canvas_parte2.pdf)
+- [Slides aula 1 - Problema- Solução](aula_21_1_teorica_pnbox_proposta_valor.pdf)
+- [Slides aula 2 - Canais de Venda](aula_21_2_teorica_pnbox_canais_vendas.pdf)
 
-### Vídeo aula empreendedorismo -  Modelo Canvas - Parte II
+### Vídeo aula empreendedorismo -  Problema - Solução
 
-[![Aula - Modelo Canvas Parte II](capa_aula8.png)](https://www.youtube.com/watch?v=SxdSEZrk38Q)
+[![Aula - Problema - Solução](capa_aula21_1.png)](https://youtu.be/fB7Ti9PFHnY)
 
-### Vídeo planejamento carreira -  Modelo Canvas 
+### Vídeo aula empreendedorismo -  Canais de Venda
 
-[![Planejamento da carreira](capa_planejamento.png)](https://www.youtube.com/watch?v=bdhEmdgZqV4)
-
-
+[![Aula - Problema - Solução](capa_aula21_2.png)](https://youtu.be/qq3vNQk7z4g)
+  
 ### Desenvolvimento aula: 
 
-- [ ]  Apresentar um exemplo de uso do modelo canvas - Groupon
-- [ ]  Mostrar as divisões e onde o mapa de empatia se encaixa no modelo canvas
-- [ ]  Apresentar o vídeo de planejamento da carreira por meio do modelo canvas
-- [ ]  Apresentar a ferramenta do sebrae para construir o canvas (https://sebraecanvas.com/#/?checkedSAS=true)
-- [ ]  Passar a atividade de planejamento da carreira com o uso do Canvas
+- [ ] Como definir a proposta de valor?
+- [ ] Quem são os concorrentes e como analisar a concorrência?
+- [ ] A importância da experimentação para validar a proposta de valor.
+- [ ] Análise dos canais de aquisição e funil de vendas
