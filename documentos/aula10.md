@@ -1,34 +1,26 @@
-# Aula 10 - Empreendedorismo - Assíncrona
-## Tema aula - Discussão dos trabalhos a serem desenvolvidos
-> Aula 24/11/2021 - 7h às 11h 
+# Aula- Empreendedorismo
+## Tema aula - Plano de Negócios - FERRAMENTA PNBOX - SEÇÃO FINANÇAS
 > 
-> * Os grupos devem realizar o agendamento pelo e-mail: anainocencio@ufj.edu.br
-> 
-## Atividades da aula - Discussão sobre os trabalhos a serem desenvolvidos
-- [GRUPO 01 - João Marcelo e Marcos Vinicius]
-- [GRUPO 02 - Vitor Costa e Luciano Ferreira e João Pedro]
-- [GRUPO 03 - Elias Gregore e Gabrieli Faria]
-- [GRUPO 04 - Jhonata e Lucas Rodrigues]
-- [GRUPO 05 - Bruna e Leonardo]
-- [GRUPO 06 - Gabriel Pacini e Gabriel Carrijo e Vitor Yudi]
-- [GRUPO 07 - Paulo Sérgio e Lígia e Victor de Lucca]
-- [GRUPO 08 - Matheus e Xavier e Ives]
-- [GRUPO 09 - Gianluca e Yago]
+> * Entender os principais conceitos relacionados a parte de finanças de um negócio, dentre eles Luco, Lucratividade, Rentabilidade
 
-## TEMAS DOS GRUPOS
+## Atividades da aula - Nesta aula serão apresentadas os principais conceitos para o entendimento do custos e ganhos em um modelo de negócio
 
-- [GRUPO 01 - João Marcelo e Marcos Vinicius]
-- [GRUPO 02 - Vitor Costa e Luciano Ferreira e João Pedro]
-- [GRUPO 03 - Elias Gregore e Gabrieli Faria]
-- [GRUPO 04 - Jhonata e Lucas Rodrigues]
-- [GRUPO 05 - Bruna e Leonardo]
-- [GRUPO 06 - Gabriel Pacini e Gabriel Carrijo e Vitor Yudi]
-- [GRUPO 07 - Paulo Sérgio e Lígia e Victor de Lucca]
-- [GRUPO 08 - Matheus e Xavier e Ives]
-- [GRUPO 09 - Gianluca e Yago]
+## Instalação da Disciplina - Apresentação dos conceitos financeiros necessários para a construção de um plano de negócios
+
+### Materiais
+
+- [Slides aula 23](aula_23_pnbox_financas.pdf)
+- [Planilha Controle Contas a pagar](controle_contas.xlsx)
+
+### Vídeo aula empreendedorismo -  PLANO DE NEGÓCIOS - FINANÇAS
+
+[![Aula - TEORICA FINANCAS](capa_aula23.png)](https://youtu.be/f1RRfJceR4o)
 
 
+### Desenvolvimento aula: 
 
-### Desenvolvimento aula 10: 
-
-- [ ]  Discutir com cada grupo o tema que será trabalhado
+- [ ] Quais os investimentos necessários para o funcionamento de um negócio.
+- [ ] Exemplo de Capital de Giro e sua importância para o funcionamento do negócio
+- [ ] Como descrever os ganhos de um negócio
+- [ ] Detalhando os custos para o desenvolvimento de um negócio
+- [ ] A importância dos indicadores financeiros e o simulador de cenários
