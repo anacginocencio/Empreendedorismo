@@ -1,27 +1,23 @@
 # Empreendedorismo
-## Tema aula - Modelo Canvas - Parte I
+## Tema aula - Desenvolvendo o Pitch do seu negócio
 
-> * Trabalhar os principais conceitos sobre o modelo canvas
-
-## Atividades da aula - Conceitos relacionados ao canvas como complemento ao plano de negócios
-
-## Instalação da Disciplina
+## Atividades da aula - Definição e como montar um pitch utilizando ferramentas de apresentação
 
 ### Materiais
 
-- [Slides aula 07](Aula_7_canvas_parte1.pdf)
+- [Slides aula 06](Aula_6_Empreendedorismo.pdf)
 
-### Vídeo aula empreendedorismo -  Modelo Canvas - Parte I
+### Vídeo Pitch no tempo do elevador
 
-[![Aula - Modelo Canvas Parte I](capa_aula7.png)](https://www.youtube.com/watch?v=ySMPJJd7YJo)
+[![Vídeo Pitch Elevador](elevador.png)](https://www.youtube.com/watch?v=cM2BTr5-w-I)
 
-### Vídeo animação Modelo Canvas
 
-[![Vídeo animação Canvas](animacao_canvas.png)](https://www.youtube.com/watch?v=tYbvFYQGm-0)
 
-### Desenvolvimento aula: 
+### Desenvolvimento aula 1: 
 
-- [ ]  Apresentar os 9 blocos que constituem o modelo canvas
-- [ ]  Mostrar a importância deste modelo para planejar um novo negócio de forma rapida e com flexibilidade
-- [ ]  Apresentar a divisão entre os blocos que independem e os que dependem do cliente
-- [ ]  Vídeo animação Modelo Canvas
+- [ ]  Definição do Pitch
+- [ ]  Como desenvolver um Pitch em ferramentas de apresentação
+
+### Desenvolvimento aula 2: 
+
+- [ ]  Validação da ideia de negócio em grupos (para esta atividade os grupos deverão conversar com o professor da disciplina e validar a ideia de negócio)
