@@ -4,7 +4,7 @@
 - [Oportunidades de Negócio e Inovação Tecnológica](aula03.md)
 - [Design Thinking](aula04.md)
 - [Modelo Canvas](aula05.md)
-- [Roteiro - Pitch ](aula06.md)
+- [Pitch ](aula06.md)
 
 ### Aulas  - Planejamento Negócio Tecnológico - Plano de Negócios
 
