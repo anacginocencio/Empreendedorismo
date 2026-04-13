@@ -9,8 +9,9 @@
 ### Aulas  - Planejamento Negócio Tecnológico - Plano de Negócios
 
 - [Plano de Negócios - CLIENTE e MERCADO ](aula07.md)
+- [Plano de Negócios - PROBLEMA - SOLUÇÃO e Quadro de Experimentação ](aula08.md)
   
- <!--
+<!--
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula21.md)
 - [Roteiro - Plano de Negócios  - PROBLEMA - SOLUÇÃO e CANAIS DE VENDA ](aula22.md)
 - [Roteiro - Plano de Negócios  - FINANÇAS ](aula23.md)
