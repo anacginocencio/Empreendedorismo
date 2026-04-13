@@ -9,18 +9,18 @@
 
 ### Vídeo aula empreendedorismo -  Cliente - Mercado
 
-[![Aula - Cliente-Mercado](capa_aula19.png)](https://youtu.be/0ay-XB8RGLU)
+[![Aula - Cliente-Mercado](capa_aula_empreendedorismo.png)](https://youtu.be/0ay-XB8RGLU)
 
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - SEGMENTAÇÃO
 
-[![Aula - PNBOX](capa_aula20_parte1.png)](https://youtu.be/pZBI7k7T4Eg)
+[![Aula - PNBOX](capa_aula_empreendedorismo.png)](https://youtu.be/pZBI7k7T4Eg)
 
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - PERSONAS
 
-[![Aula - PNBOX](capa_aula20_parte2.png)](https://youtu.be/CJoYg9NJH5g)
+[![Aula - PNBOX](capa_aula_empreendedorismo.png)](https://youtu.be/CJoYg9NJH5g)
 
 ### Vídeo aula empreendedorismo -  PNBOX - CLIENTE MERCADO - JORNADA DO CLIENTE
-[![Aula - PNBOX](capa_aula20_parte3.png)](https://youtu.be/rX6NguklIN8)
+[![Aula - PNBOX](capa_aula_empreendedorismo.png)](https://youtu.be/rX6NguklIN8)
 
 ### Desenvolvimento aula - Parte I: 
 
